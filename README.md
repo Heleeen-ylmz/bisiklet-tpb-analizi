@@ -1,23 +1,24 @@
-# BisikletKullan-c-lar-Analizi
-Bisiklet kullanıcılarının gerçek niyetlerini SPSS ile analiz etme çalışması (265 katılımcı, Planlı Davranış Modeli)
-# Bisiklet Kullanıcıları Gerçek Niyet Analizi
+🚲 Bisiklet Kullanımında Gerçek Niyetin Araştırılması
+Eskişehir Osmangazi Üniversitesi · İstatistik Bölümü · 2025
+Hazırlayan: Helen Yılmaz | Danışman: Prof. Dr. Veysel Yılmaz
 
-**Proje Amacı:**  
-Bisiklet kullanıcılarının gerçek niyetlerini anlamak ve Planlı Davranış Modeli çerçevesinde analiz etmek. Akademik bir çalışmanın parçası olarak gerçekleştirildi.
+Hakkında
+Eskişehir Kanlıkavak Parkı'nda 232 bisiklet kullanıcısıyla yapılan anket çalışmasıdır. Planlı Davranış Teorisi (TPB) kullanılarak bireylerin bisiklet kullanma niyeti ve gerçek davranışı incelenmiştir.
 
-**Veri Seti:**  
-- 265 katılımcıdan anket toplandı  
-- Kontrol soruları sonrası 232 veri üzerinden analiz yapıldı  
+Kullanılan Değişkenler
+KısaltmaAçıklamaATBDavranışa Yönelik TutumSNSosyal NormPBCAlgılanan Davranışsal KontrolASASürdürülebilir Alternatiflerin ÇekiciliğiBIDavranışsal NiyetABGerçek Davranış
 
-**Kullanılan Araçlar:**  
-- SPSS ile veri temizleme  
-- Temel istatistiksel testler (ortalama, t-test, ANOVA vb.)
+Temel Bulgular
 
-**Yapılan İşlemler:**  
-1. Anket verilerinin SPSS ile temizlenmesi ve kontrol sorularının uygulanması  
-2. Temel istatistiksel testlerin uygulanması  
-3. Sonuçların yorumlanması ve raporlanması (Word dosyasında)
+Katılımcıların bisiklet kullanımına yönelik tutumu genel olarak olumlu (ort. ~5,4/7)
+Tutum cinsiyete göre anlamlı farklılık göstermiyor (p = 0,342)
+Davranışsal niyet çalışma durumuna göre değişmiyor (p = 0,219)
+Parkın doğal güzellikleri bisiklet sürmeyi daha çekici kılıyor (ASA etkisi)
+Ölçek güvenilirliği: Cronbach's Alpha = 0,780
+
 #######################################################
+
+
 ANALİZ SONU NOTLARI
 Ne araştırdın?
 "Eskişehir'deki Kanlıkavak Parkı'nda bisiklet kullanan kişilerin neden bisiklet kullandığını, yani arkasındaki gerçek niyeti bulmaya çalıştım. Bunu yaparken Planlı Davranış Teorisi denen bir modeli kullandım."
