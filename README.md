@@ -6,9 +6,14 @@ Hakkında
 Eskişehir Kanlıkavak Parkı'nda 232 bisiklet kullanıcısıyla yapılan anket çalışmasıdır. Planlı Davranış Teorisi (TPB) kullanılarak bireylerin bisiklet kullanma niyeti ve gerçek davranışı incelenmiştir.
 
 Kullanılan Değişkenler
-KısaltmaAçıklamaATBDavranışa Yönelik TutumSNSosyal NormPBCAlgılanan Davranışsal KontrolASASürdürülebilir Alternatiflerin ÇekiciliğiBIDavranışsal NiyetABGerçek Davranış
+Kısaltma                             Açıklama
+ATB                                 Davranışa Yönelik Tutum
+SN                                  Sosyal Norm
+PBC                                 Algılanan Davranışsal Kontrol
+ASA                                 Sürdürülebilir Alternatiflerin Çekiciliği
+BI                                  Davranışsal NiyetABGerçek Davranış
 
-Temel Bulgular
+Temel Bulgular:
 
 Katılımcıların bisiklet kullanımına yönelik tutumu genel olarak olumlu (ort. ~5,4/7)
 Tutum cinsiyete göre anlamlı farklılık göstermiyor (p = 0,342)
