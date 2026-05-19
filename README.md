@@ -6,12 +6,19 @@ Hakkında
 Eskişehir Kanlıkavak Parkı'nda 232 bisiklet kullanıcısıyla yapılan anket çalışmasıdır. Planlı Davranış Teorisi (TPB) kullanılarak bireylerin bisiklet kullanma niyeti ve gerçek davranışı incelenmiştir.
 
 Kullanılan Değişkenler
+
 Kısaltma-Açıklama
+
 ATB - Davranışa Yönelik Tutum
+
 SN  - Sosyal Norm
+
 PBC -Algılanan Davranışsal Kontrol
+
 ASA -Sürdürülebilir Alternatiflerin Çekiciliği
-BI  -Davranışsal NiyetABGerçek Davranış
+
+BI -Davranışsal Niyet
+AB- Gerçek Davranış
 
 Temel Bulgular:
 
